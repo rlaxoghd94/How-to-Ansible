@@ -18,6 +18,6 @@ Ansible's main goals are simplicity and ease-of-use. It also has a strong foncus
 
 - Using Ansible
 
-  - User Guide
+  - [Ansible concepts](./docs/02_Using_Ansible/Concepts.md)
 
-    - [Ansible concepts](./docs/02_Using_Ansible/Concepts.md)
+  - [User Guide](./docs/02_Using_Ansible/User_Guide.md)
